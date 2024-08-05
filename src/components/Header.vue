@@ -170,7 +170,7 @@ export default {
               link: "university-overview.html",
             },
             {
-              label: "Blog",
+              label: "Departments",
               link: "javascript:void(0)",
               showDropdown: false,
               subItems: [
@@ -179,13 +179,6 @@ export default {
                 { label: "Blog Details", link: "blog-details.html" },
               ],
             },
-            { label: "Register Now", link: "register.html" },
-            { label: "Log In Now", link: "login.html" },
-            { label: "Application Form", link: "application.html" },
-            { label: "Faculty", link: "faculty.html" },
-            { label: "Support & Guidance", link: "guidance-support.html" },
-            { label: "Privacy Policy", link: "privacy-policy.html" },
-            { label: "Terms & Conditions", link: "terms-conditions.html" },
           ],
         },
         { label: "Placements", link: "placements.html" },
